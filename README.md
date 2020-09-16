@@ -32,7 +32,3 @@ When I'm not developing and building things, you can find me on Youtube learning
 <a href="https://www.linkedin.com/in/akshayprabhu200/"><img height="30" src="https://github.com/akshayprabhu200/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-- [Facebook]() 😏
-- [Twitter](https://twitter.com/akshayprabhu200) 🐤
-- [Instagram](https://instagram.com/akshayprabhu200) 😎
-- [LinkedIn](https://linkedin.com/in/akshayprabhu200) 👨💼
