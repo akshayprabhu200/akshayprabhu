@@ -11,7 +11,7 @@ I'm also currently doing my Bachelors in Computer Engineering while working on o
 I currently passionate about React, Node, Rust and Python.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime or on my laptop gaming. But most of my days are spent working on projects, studying or watching anime</p>
 
-<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
+<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="mailto:akshayprabhu200@github.com">here</a> </h3>
 
 
 ### 💻 What I am currently/done working on
