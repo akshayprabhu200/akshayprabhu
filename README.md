@@ -14,6 +14,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="mailto:akshayprabhu200@github.com">here</a> </h3>
 
 ### ⚡ Technologies I like
+- Languages including **TypeScript, Scheme and Python** 
 - Front-end development using **React, Tailwinds and Material UI**
 - Building a backend with **DieselRs, NodeJS, Django and FastAPI**
 - Robust full-stack system design implementation
